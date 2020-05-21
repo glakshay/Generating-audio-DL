@@ -8,6 +8,8 @@ See paper and blog for more information:
 https://deepmind.com/blog/article/wavenet-generative-model-raw-audio
 https://arxiv.org/pdf/1609.03499.pdf
 
+Also, included is our project paper for our work.
+
 ## Necessary Tools:
 1. Python 3
 2. Docker (Docker Engine API v1.40 for gpu)
