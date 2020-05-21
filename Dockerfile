@@ -17,4 +17,4 @@ RUN apt-get -y install libsndfile1
 
 CMD [ "python","main.py" ]
 
-
+#docker
